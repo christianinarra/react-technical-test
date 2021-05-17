@@ -1,1 +1,1 @@
-export const apiUrl = "http://technicaltest.dxbolivia.com/api/";
+export const apiUrl = "https://technicaltest.dxbolivia.com/api/";
